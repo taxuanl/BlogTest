@@ -48,6 +48,7 @@ minima:
       user: jekyllrb
       user_url: "https://twitter.com/jekyllrb"
 
+markdown: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
