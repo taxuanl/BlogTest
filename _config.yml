@@ -22,11 +22,10 @@ title: Taxua - Про податки в Нідерландах
 email: info@taxua.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Читайте наші статті про податки в Нідерландах.
-  Ми розповідаємо про податки на бізнес, податки на фізичних осіб, податки на нерухомість та інші податкові питання.
-baseurl: "BlogTest" # the subpath of your site, e.g. /blog
-url: "https://taxuanl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Ми розповідаємо про податки на бізнес, податки фізичних осіб (включно з ZZP), податки на нерухомість та інші податкові питання.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.taxua.nl/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: jekyll
 telegram_username: taxuanl
 
 # Build settings
@@ -41,13 +40,8 @@ minima:
     - platform: telegram
       user: taxuanl
       user_url: "https://t.me/taxuanl"
-    - platform: github
-      user: jekyll
-      user_url: "https://github.com/jekyll"
-    - platform: twitter
-      user: jekyllrb
-      user_url: "https://twitter.com/jekyllrb"
 
+markdown: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
