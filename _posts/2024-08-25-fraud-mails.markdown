@@ -6,4 +6,4 @@ categories: ZZP fraud
 ---
 
 
-Фейкові листи від податкової [Фейковий лист від податкової](assets/images/2024-08-25-fake-mail-from-tax-office-example.jpg).
+Фейкові листи від податкової [Фейковий лист від податкової](~/assets/images/2024-08-25-fake-mail-from-tax-office.jpg).
