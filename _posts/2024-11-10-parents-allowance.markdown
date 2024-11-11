@@ -8,9 +8,9 @@ categories: allowance toeslag
 Давайте поговоримо про допомогу, що стосується батьківства.
 Якщо у вас є дитина/діти, то в залежності від її віку, ваших доходів, життєвих обставин, ви можете запросити і отримувати:
 - [Kinderbijslag (допомогу на дітей)](https://blog.taxua.nl/allowance/toeslag/kinderbijslag/2024/11/11/kinderbijslag.html)
-- [Kinderbijslag (допомогу на дітей) для біженців з України]()
-- [Kindgebonden budget (бюджет, пов’язаний з дитиною)]()
-- [Kinderopvangtoeslag (допомогу по догляду за дитиною)]()
+- Kinderbijslag (допомогу на дітей) для біженців з України
+- Kindgebonden budget (бюджет, пов’язаний з дитиною)
+- Kinderopvangtoeslag (допомогу по догляду за дитиною)
 
 Народження дитини має також наслідки в разі, якщо ви отримуєте zorgtoeslag (допомогу по догляду) чи huurtoeslag (допомогу для оренди житла).
 
