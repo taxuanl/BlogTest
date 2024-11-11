@@ -45,5 +45,4 @@ categories: allowance toeslag kinderbijslag
 - допомогу по догляду (zorgtoeslag) від податкової служби Belastingdienst
 
 ## Подача на Kinderbijslag
-В деяких випадках лист від Sociale Verzekeringsbank (SVB) приходить автоматично, інколи ні, тож можна перевірити вашу особисту ситуацію після заповнення [опитувальника на сайті]
-(https://www.svb.nl/nl/kinderbijslag/hoe-vraagt-u-kinderbijslag-aan/kinderbijslag-aanvragen).
+В деяких випадках лист від Sociale Verzekeringsbank (SVB) приходить автоматично, інколи ні, тож можна перевірити вашу особисту ситуацію після заповнення [опитувальника на сайті](https://www.svb.nl/nl/kinderbijslag/hoe-vraagt-u-kinderbijslag-aan/kinderbijslag-aanvragen).
