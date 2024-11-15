@@ -1,72 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://blog.taxua.nl/</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://blog.taxua.nl/</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/home/</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/home/</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/entrepreneur/criteria/2024/09/21/entrepreneur-criteria.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/allowance/toeslag/kinderopvangtoeslag/2024/11/14/kinderopvangtoeslag.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/entrepreneur/donation/ruling/taxes2025/2024/09/19/tax-entrepreneur.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/allowance/toeslag/kindgebonden/budget/2024/11/13/kindgebonden-budget.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/taxes2025/2024/09/18/tax-brackets.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/allowance/toeslag/kinderbijslag/ukrainians/2024/11/12/kinderbijslag-ukrainians.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/car/taxes2025/2024/09/17/car-taxes.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/allowance/toeslag/kinderbijslag/2024/11/11/kinderbijslag.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/eu/kor/2024/09/10/EU-KOR.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/allowance/toeslag/2024/11/10/parents-allowance.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/kor/2024/09/09/KOR-2025.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/entrepreneur/criteria/2024/09/21/entrepreneur-criteria.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/2024/09/07/false-self-employment.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/entrepreneur/donation/ruling/taxes2025/2024/09/19/tax-entrepreneur.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/fraud/2024/08/25/fraud-mails.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/taxes2025/2024/09/18/tax-brackets.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/machtigen/digid/2024/07/30/access-to-the-tax-office.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/car/taxes2025/2024/09/17/car-taxes.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/zzp/invoice/2024/07/24/invoice-example.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/zzp/eu/kor/2024/09/10/EU-KOR.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://blog.taxua.nl/welcome/2024/07/23/welcome-to-taxua.html</loc>
-  <lastmod>2024-09-22T09:58:07+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://blog.taxua.nl/zzp/kor/2024/09/09/KOR-2025.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://blog.taxua.nl/zzp/2024/09/07/false-self-employment.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://blog.taxua.nl/zzp/fraud/2024/08/25/fraud-mails.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://blog.taxua.nl/zzp/machtigen/digid/2024/07/30/access-to-the-tax-office.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://blog.taxua.nl/zzp/invoice/2024/07/24/invoice-example.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://blog.taxua.nl/welcome/2024/07/23/welcome-to-taxua.html</loc>
+<lastmod>2024-11-14T15:30:44+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 </urlset>
