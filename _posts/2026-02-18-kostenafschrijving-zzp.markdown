@@ -4,7 +4,7 @@ title:  "Списання витрат ZZP в річній декларації"
 date:   2026-02-18
 categories: belastingaangifte, zzp, kostenafschrijving
 ---
-Великі покупки треба **амортизовувати**, про що у нас є окремі статті ([загальгі правила](https://blog.taxua.nl/taxes,/amortization,/afschrijving/2025/10/20/amortization.html) і [вимоги до домашніх офісів](https://blog.taxua.nl/taxes,/amortization,/afschrijving/2025/10/27/amortization-real-estate-copy.html)). Покупки *до 450 без ПДВ можна списати одразу* за один рік.<br/>
+Великі покупки треба **амортизовувати**, про що у нас є окремі статті ([загальні правила](https://blog.taxua.nl/taxes,/amortization,/afschrijving/2025/10/20/amortization.html) і [вимоги до домашніх офісів](https://blog.taxua.nl/taxes,/amortization,/afschrijving/2025/10/27/amortization-real-estate-copy.html)). Покупки *до 450 без ПДВ можна списати одразу* за один рік.<br/>
 Все, що коштує **більше ніж 450 євро**, має залишатися на балансі компанії та списуватися протягом 5 років.<br/>
 
 Якщо в 2025 році **інвестували у бізнес від 2801 євро** (кожен окремий актив має коштувати не менше 450 євро без ПДВ), при декларуванні за рік такого інвестування можна зробити **Kleinschaligheidsinvesteringsaftrek**. Для 2026 року ліміт від 2901 євро.<br/>
